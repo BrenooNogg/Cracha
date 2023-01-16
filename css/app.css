@@ -6,7 +6,7 @@
 
 body {
 	background-color: #e4e4e4;
-	background-image: url("background.png");
+	background-image: url("../css/background.png");
 	background-repeat: no-repeat, repeat;
 	background-position: 300px;
 	background-size: 100%;
