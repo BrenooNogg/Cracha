@@ -102,11 +102,11 @@ btn.onclick = () => {
 	}
 }
 $('.eye').click(function () {
-	if ($('.eye').attr('src') == '../css/olhoBlock.png') {
-		$('.eye').attr('src', '../css/olho.png');
+	if ($('.eye').attr('src') == '../Crachá/css/olhoBlock.png') {
+		$('.eye').attr('src', '../Crachá/css/olho.png');
 		senha.type = 'password';
 	} else {
-		$('.eye').attr('src', '../css/olhoBlock.png');
+		$('.eye').attr('src', '../Crachá/css/olhoBlock.png');
 		senha.type = 'text';
 
 	}
